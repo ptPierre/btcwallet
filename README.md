@@ -81,8 +81,8 @@ This script provides a PyQt5 GUI for user interaction with the wallet.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository>
+git clone https://github.com/ptPierre/btcwallet.git
+cd btcwallet
 pip install -r requirements.txt
 python main.py
 ```
