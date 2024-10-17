@@ -1,5 +1,7 @@
 # Bitcoin Testnet Wallet Generator
 
+## DO NOT USE! ONLY FOR TESTING PURPOSE
+
 This project contains Python code to generate Bitcoin testnet wallets, including both private/public keys and addresses, utilizing hierarchical deterministic (HD) key derivation techniques. The project features a PyQt5-based graphical user interface that allows users to generate wallets, view their private/public keys, check testnet balances, and send Bitcoin testnet transactions.
 
 The solution consists of two main components:
